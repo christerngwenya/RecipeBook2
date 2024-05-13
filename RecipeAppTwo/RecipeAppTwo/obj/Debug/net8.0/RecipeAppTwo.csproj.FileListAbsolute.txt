@@ -1,0 +1,4 @@
+C:\Users\Admin\source\repos\RecipeAppTwo\RecipeAppTwo\obj\Debug\net8.0\RecipeAppTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\RecipeAppTwo\RecipeAppTwo\obj\Debug\net8.0\RecipeAppTwo.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\RecipeAppTwo\RecipeAppTwo\obj\Debug\net8.0\RecipeAppTwo.AssemblyInfo.cs
+C:\Users\Admin\source\repos\RecipeAppTwo\RecipeAppTwo\obj\Debug\net8.0\RecipeAppTwo.csproj.CoreCompileInputs.cache
